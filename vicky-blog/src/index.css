@@ -78,6 +78,7 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+  margin-left: 20px;
 }
 .blog-details p{
   color: #ADD8E6;
@@ -87,6 +88,7 @@
 .blog-details div{
   color: #6F8FAF;
 }
+
 
 /* create new blog form */
 .create {

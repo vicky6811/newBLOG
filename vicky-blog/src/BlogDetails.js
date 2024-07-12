@@ -26,6 +26,8 @@ const BlogDetails = () => {
           <button onClick={handleClick}>delete</button>
         </article>
       )}
+
+      
     </div>
   );
 }
